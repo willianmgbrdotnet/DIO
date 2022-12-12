@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Variables
+namespace VariablesPart1
 {
-    class VariableArea
+    class VariablesPart1
     {
         static void Main()
         {
