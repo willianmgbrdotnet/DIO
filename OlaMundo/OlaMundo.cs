@@ -2,7 +2,7 @@
 
 namespace OlaMundo
 {
-    class Program
+    class OlaMundo
     {
         static void Main(string[] args)
         {
